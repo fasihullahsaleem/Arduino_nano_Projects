@@ -2,6 +2,10 @@
 const int ROW_NUM = 4;
 const int COLUMN_NUM = 4;
 
+//   ->    CONTROL SYSTEM PROJECT
+// FASIH ULLAH SALEEM 
+// MUHAMMAD ASAD NADEEM
+// SHEHERYAR ALI
 
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(A0, A1, A2, A3, A4, A5);
